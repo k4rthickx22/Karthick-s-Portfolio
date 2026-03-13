@@ -1,5 +1,4 @@
 # 🚀 Karthick Kalaivanan K – Portfolio
-# file:///C:/Users/Karthick/OneDrive/Desktop/myPortfolio/index.html
 A **modern, responsive portfolio website** built with pure HTML, CSS, and JavaScript. Designed for professional interviews and GitHub showcasing.
 
 ![Portfolio Preview](./preview.png)
