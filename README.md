@@ -5,7 +5,7 @@
 **A modern, high-performance personal portfolio** built with pure HTML, CSS & JavaScript.  
 Designed to impress recruiters, showcase real-world projects, and reflect a production-ready engineering mindset.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c3aed?style=for-the-badge)](https://k4rthickx22.github.io/Karthick-s-Portfolio/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c3aed?style=for-the-badge)](https://k4rthick-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-k4rthick22-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k4rthick22/)
 [![GitHub](https://img.shields.io/badge/GitHub-k4rthickx22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k4rthickx22)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FrosT__22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FrosT_22/)
@@ -148,7 +148,6 @@ start index.html
 | Channel | Link |
 |---|---|
 | 📧 Email | [karthickkalaivanan101@gmail.com](mailto:karthickkalaivanan101@gmail.com) |
-| 📱 Phone | [+91 9600284536](tel:+919600284536) |
 | 💼 LinkedIn | [linkedin.com/in/k4rthick22](https://www.linkedin.com/in/k4rthick22/) |
 | 🐙 GitHub | [github.com/k4rthickx22](https://github.com/k4rthickx22) |
 | 📍 Location | Coimbatore, Tamil Nadu, India |
