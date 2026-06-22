@@ -8,7 +8,7 @@ Designed to impress recruiters, showcase real-world projects, and reflect a prod
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c3aed?style=for-the-badge)](https://k4rthick-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-k4rthick22-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k4rthick22/)
 [![GitHub](https://img.shields.io/badge/GitHub-k4rthickx22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k4rthickx22)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FrosT__22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FrosT_22/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-k4rthick_22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/k4rthick_22/))
 
 </div>
 
